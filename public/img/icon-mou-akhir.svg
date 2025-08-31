@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_38504" data-name="Path 38504" d="M535.939-7.019v-8.573H523.8a1.482,1.482,0,0,0-1.457,1.513V15.17a1.482,1.482,0,0,0,1.457,1.513h20.4a1.482,1.482,0,0,0,1.457-1.513V-5.506H537.4A1.49,1.49,0,0,1,535.939-7.019Z" transform="translate(-522.342 15.592)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-mou-akhir" transform="translate(-169 -764)">
+    <circle id="Ellipse_389" data-name="Ellipse 389" cx="30" cy="30" r="30" transform="translate(169 764)" fill="#d9eeff" opacity="0.4"/>
+    <g id="Group_4601" data-name="Group 4601" transform="translate(-162.802 281.968)">
+      <path id="Path_38502" data-name="Path 38502" d="M785.687-8.973l-5.943-6.178a1.429,1.429,0,0,0-1.032-.441h-.37v8.069h7.77v-.385A1.538,1.538,0,0,0,785.687-8.973Z" transform="translate(-412.968 511.092)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_4599" data-name="Group 4599" transform="translate(349.834 495.5)">
+        <path id="Subtraction_70" data-name="Subtraction 70" d="M17.061,32.275H1.457A1.487,1.487,0,0,1,0,30.762V1.513A1.487,1.487,0,0,1,1.457,0H13.6V8.573a1.487,1.487,0,0,0,1.457,1.513H23.31V26.27a5.092,5.092,0,0,0-6.249,6ZM4.452,26.885a1.056,1.056,0,1,0,0,2.111h8.132a1.056,1.056,0,1,0,0-2.111Zm0-4.478a1.056,1.056,0,1,0,0,2.112h13.83a1.056,1.056,0,1,0,0-2.112Zm0-4.477a1.056,1.056,0,1,0,0,2.111h13.83a1.056,1.056,0,1,0,0-2.111Zm0-4.477a1.056,1.056,0,1,0,0,2.112h13.83a1.056,1.056,0,1,0,0-2.112Z" transform="translate(0.001 0.001)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Mask_Group_1565" data-name="Mask Group 1565" clip-path="url(#clip-path)">
+          <ellipse id="Ellipse_690" data-name="Ellipse 690" cx="14.515" cy="14.515" rx="14.515" ry="14.515" transform="translate(-13.376 -16.395)" fill="#6bb1fe" opacity="0.5"/>
+        </g>
+      </g>
+      <g id="Check" transform="translate(368.037 522.829)">
+        <path id="Subtraction_71" data-name="Subtraction 71" d="M3.866,7.735A3.867,3.867,0,1,1,7.733,3.869,3.871,3.871,0,0,1,3.866,7.735ZM2.716,2.311a.3.3,0,0,0-.208.086l-.21.209a.3.3,0,0,0,0,.418l.939.94L2.3,4.908a.289.289,0,0,0-.086.205.294.294,0,0,0,.086.211l.21.209a.285.285,0,0,0,.208.086.294.294,0,0,0,.21-.086l.94-.941.941.941a.3.3,0,0,0,.417,0l.209-.209a.294.294,0,0,0,0-.416l-.941-.943.941-.94a.3.3,0,0,0,0-.418L5.224,2.4a.3.3,0,0,0-.417,0l-.941.941L2.926,2.4A.3.3,0,0,0,2.716,2.311Z" fill="#2680eb"/>
+      </g>
+    </g>
+  </g>
+</svg>

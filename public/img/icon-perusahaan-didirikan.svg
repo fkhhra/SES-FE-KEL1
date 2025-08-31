@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="flag-solid" d="M27.505,5.641c-3.06,0-5.587-1.986-9.435-1.986a11.1,11.1,0,0,0-3.886.686A3.2,3.2,0,1,0,9.371,5.822V27.868a1.371,1.371,0,0,0,1.371,1.371h.914a1.371,1.371,0,0,0,1.371-1.371V22.477a15.955,15.955,0,0,1,6.535-1.263c3.06,0,5.587,1.986,9.435,1.986a11.955,11.955,0,0,0,7-2.333,1.824,1.824,0,0,0,.791-1.505V5.479a1.827,1.827,0,0,0-2.6-1.657A16.625,16.625,0,0,1,27.505,5.641Z" transform="translate(176.609 563.381)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-perusahaan-didirikan" transform="translate(-169 -548)">
+    <circle id="Ellipse_386" data-name="Ellipse 386" cx="30" cy="30" r="30" transform="translate(169 548)" fill="#d9eeff" opacity="0.4"/>
+    <path id="flag-solid-2" data-name="flag-solid" d="M27.505,5.641c-3.06,0-5.587-1.986-9.435-1.986a11.1,11.1,0,0,0-3.886.686A3.2,3.2,0,1,0,9.371,5.822V27.868a1.371,1.371,0,0,0,1.371,1.371h.914a1.371,1.371,0,0,0,1.371-1.371V22.477a15.955,15.955,0,0,1,6.535-1.263c3.06,0,5.587,1.986,9.435,1.986a11.955,11.955,0,0,0,7-2.333,1.824,1.824,0,0,0,.791-1.505V5.479a1.827,1.827,0,0,0-2.6-1.657A16.625,16.625,0,0,1,27.505,5.641Z" transform="translate(176.609 563.381)" fill="#2680eb"/>
+    <g id="Mask_Group_1468" data-name="Mask Group 1468" clip-path="url(#clip-path)">
+      <circle id="Ellipse_520" data-name="Ellipse 520" cx="21.302" cy="21.302" r="21.302" transform="translate(169 539)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

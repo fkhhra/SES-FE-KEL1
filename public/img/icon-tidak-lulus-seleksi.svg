@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-tidak-lulus-seleksi" transform="translate(-792 -1206)">
+    <g id="Rectangle_1479" data-name="Rectangle 1479" transform="translate(792 1206)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Group_5157" data-name="Group 5157" transform="translate(0.705 0.705)">
+      <circle id="Ellipse_736" data-name="Ellipse 736" cx="8" cy="8" r="8" transform="translate(795.295 1209.295)" fill="#fc544b"/>
+      <path id="Path_38533" data-name="Path 38533" d="M0,0V6.665" transform="translate(805.651 1214.94) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_38534" data-name="Path 38534" d="M0,0V6.665" transform="translate(805.651 1219.651) rotate(135)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

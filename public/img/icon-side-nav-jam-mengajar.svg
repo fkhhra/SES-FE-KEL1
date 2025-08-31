@@ -1,0 +1,12 @@
+<svg id="icon-side-nav-jam-mengajar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_38503" data-name="Path 38503" d="M17,8a9,9,0,1,0,9,9A9,9,0,0,0,17,8Zm3.357,11.359h0l-.726.907a.582.582,0,0,1-.817.091h0l-2.431-1.8a1.451,1.451,0,0,1-.544-1.132V11.774a.582.582,0,0,1,.581-.581h1.161a.582.582,0,0,1,.581.581V17l2.1,1.542a.582.582,0,0,1,.091.817Z" transform="translate(-2 -2)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_302" data-name="Ellipse 302" cx="15" cy="15" r="15" fill="#d9eeff" opacity="0.4"/>
+  <path id="Path_223" data-name="Path 223" d="M17,8a9,9,0,1,0,9,9A9,9,0,0,0,17,8Zm3.357,11.359h0l-.726.907a.582.582,0,0,1-.817.091h0l-2.431-1.8a1.451,1.451,0,0,1-.544-1.132V11.774a.582.582,0,0,1,.581-.581h1.161a.582.582,0,0,1,.581.581V17l2.1,1.542a.582.582,0,0,1,.091.817Z" transform="translate(-2 -2)" fill="#2680eb"/>
+  <g id="Mask_Group_1552" data-name="Mask Group 1552" clip-path="url(#clip-path)">
+    <circle id="Ellipse_691" data-name="Ellipse 691" cx="11.611" cy="11.611" r="11.611" transform="translate(-8.223 -3.006)" fill="#6bb1fe" opacity="0.5"/>
+  </g>
+</svg>

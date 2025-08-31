@@ -1,0 +1,102 @@
+const SoalPgKompleks = ({ data }) => {
+  const jawaban = data?.soal?.jawabanPgKompleks?.split(",");
+  return (
+    <div>
+      <div className="content-soal mb-4">
+        <p
+          className="m-0"
+          dangerouslySetInnerHTML={{
+            __html: data?.soal?.pertanyaan,
+          }}
+        />
+      </div>
+      <div className="jawaban-soal mb-4">
+        {data?.soal?.jawabanA?.trim() ? (
+          <div
+            className={`list-jawaban-soal rounded-ss px-4 py-3 d-flex align-items-center mb-3 ${
+              jawaban?.includes("A")
+                ? "bg-soft-success border border-success-ss"
+                : "border border-light-secondary-ss"
+            }`}
+          >
+            <h6 className="fs-18-ss fw-bold color-dark mb-0 me-4">A</h6>
+            <div
+              className="konten-list-jawaban-soal"
+              dangerouslySetInnerHTML={{ __html: data?.soal?.jawabanA }}
+            ></div>
+          </div>
+        ) : null}
+        {data?.soal?.jawabanB?.trim() ? (
+          <div
+            className={`list-jawaban-soal rounded-ss px-4 py-3 d-flex align-items-center mb-3 ${
+              jawaban?.includes("B")
+                ? "bg-soft-success border border-success-ss"
+                : "border border-light-secondary-ss"
+            }`}
+          >
+            <h6 className="fs-18-ss fw-bold color-dark mb-0 me-4">B</h6>
+            <div
+              className="konten-list-jawaban-soal"
+              dangerouslySetInnerHTML={{ __html: data?.soal?.jawabanB }}
+            ></div>
+          </div>
+        ) : null}
+        {data?.soal?.jawabanC?.trim() ? (
+          <div
+            className={`list-jawaban-soal rounded-ss px-4 py-3 d-flex align-items-center mb-3 ${
+              jawaban?.includes("C")
+                ? "bg-soft-success border border-success-ss"
+                : "border border-light-secondary-ss"
+            }`}
+          >
+            <h6 className="fs-18-ss fw-bold color-dark mb-0 me-4">C</h6>
+            <div
+              className="konten-list-jawaban-soal"
+              dangerouslySetInnerHTML={{ __html: data?.soal?.jawabanC }}
+            ></div>
+          </div>
+        ) : null}
+        {data?.soal?.jawabanD?.trim() ? (
+          <div
+            className={`list-jawaban-soal rounded-ss px-4 py-3 d-flex align-items-center mb-3 ${
+              jawaban?.includes("D")
+                ? "bg-soft-success border border-success-ss"
+                : "border border-light-secondary-ss"
+            }`}
+          >
+            <h6 className="fs-18-ss fw-bold color-dark mb-0 me-4">D</h6>
+            <div
+              className="konten-list-jawaban-soal"
+              dangerouslySetInnerHTML={{ __html: data?.soal?.jawabanD }}
+            ></div>
+          </div>
+        ) : null}
+        {data?.soal?.jawabanE?.trim() ? (
+          <div
+            className={`list-jawaban-soal rounded-ss px-4 py-3 d-flex align-items-center mb-3 ${
+              jawaban?.includes("E")
+                ? "bg-soft-success border border-success-ss"
+                : "border border-light-secondary-ss"
+            }`}
+          >
+            <h6 className="fs-18-ss fw-bold color-dark mb-0 me-4">E</h6>
+            <div
+              className="konten-list-jawaban-soal"
+              dangerouslySetInnerHTML={{ __html: data?.soal?.jawabanE }}
+            ></div>
+          </div>
+        ) : null}
+      </div>
+      <h6 className="fs-18-ss fw-bold color-dark me-4 mb-4">Pembahasan</h6>
+      <div
+        className="konten-pembahasan-soal mb-2"
+        dangerouslySetInnerHTML={{ __html: data?.soal?.pembahasan }}
+      ></div>
+      <p className="color-dark fw-bold mb-0">
+        Jadi Jawaban yang tepat adalah {jawaban?.join(", ")}
+      </p>
+    </div>
+  );
+};
+
+export default SoalPgKompleks;

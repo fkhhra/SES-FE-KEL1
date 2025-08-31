@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_5183" data-name="Group 5183" transform="translate(-890.168 -730.168)">
+    <circle id="Ellipse_768" data-name="Ellipse 768" cx="12" cy="12" r="12" transform="translate(890.168 730.168)" fill="#eef5ff"/>
+    <path id="clock-solid" d="M14.64,8a6.64,6.64,0,1,0,6.64,6.64A6.639,6.639,0,0,0,14.64,8Zm2.476,8.381h0l-.535.669a.428.428,0,0,1-.6.067h0l-1.794-1.331a1.071,1.071,0,0,1-.4-.836V10.785a.428.428,0,0,1,.428-.428h.857a.428.428,0,0,1,.428.428V14.64l1.553,1.138A.428.428,0,0,1,17.117,16.381Z" transform="translate(887.679 727.679)" fill="#2680eb"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M.554,9.3A6.645,6.645,0,0,1,8.407.238a7.745,7.745,0,0,1,.125,1.385A7.647,7.647,0,0,1,7.5,5.477V2.785a.428.428,0,0,0-.429-.429H6.211a.429.429,0,0,0-.429.429V6.95a1.067,1.067,0,0,0,.109.469A7.656,7.656,0,0,1,.848,9.305C.75,9.305.652,9.3.554,9.3Z" transform="translate(895.679 735.678)" fill="#6bb1fe" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.5"/>
+  </g>
+</svg>

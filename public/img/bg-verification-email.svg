@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="62" viewBox="0 0 1366 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1285" data-name="Rectangle 1285" width="1366" height="62" transform="translate(0 82)" fill="#fc544b"/>
+    </clipPath>
+  </defs>
+  <g id="bg-verification-email" transform="translate(0 -82)">
+    <rect id="Rectangle_1284" data-name="Rectangle 1284" width="1366" height="62" transform="translate(0 82)" fill="#fc544b"/>
+    <g id="Mask_Group_1504" data-name="Mask Group 1504" clip-path="url(#clip-path)">
+      <path id="envelope-regular_1_" data-name="envelope-regular (1)" d="M60.417,64H6.25A6.25,6.25,0,0,0,0,70.25v37.5A6.25,6.25,0,0,0,6.25,114H60.417a6.25,6.25,0,0,0,6.25-6.25V70.25A6.25,6.25,0,0,0,60.417,64Zm0,6.25v5.313c-2.92,2.377-7.574,6.074-17.524,13.866-2.193,1.725-6.537,5.869-9.559,5.82-3.022.049-7.367-4.1-9.559-5.82C13.826,81.639,9.17,77.941,6.25,75.563V70.25ZM6.25,107.75V83.583c2.984,2.376,7.215,5.711,13.664,10.761,2.846,2.24,7.83,7.186,13.42,7.156,5.562.03,10.483-4.844,13.418-7.155C53.2,89.3,57.433,85.96,60.417,83.583V107.75Z" transform="translate(-10 38)" fill="#fff" opacity="0.15"/>
+      <path id="envelope-regular_1_2" data-name="envelope-regular (1)" d="M60.417,64H6.25A6.25,6.25,0,0,0,0,70.25v37.5A6.25,6.25,0,0,0,6.25,114H60.417a6.25,6.25,0,0,0,6.25-6.25V70.25A6.25,6.25,0,0,0,60.417,64Zm0,6.25v5.313c-2.92,2.377-7.574,6.074-17.524,13.866-2.193,1.725-6.537,5.869-9.559,5.82-3.022.049-7.367-4.1-9.559-5.82C13.826,81.639,9.17,77.941,6.25,75.563V70.25ZM6.25,107.75V83.583c2.984,2.376,7.215,5.711,13.664,10.761,2.846,2.24,7.83,7.186,13.42,7.156,5.562.03,10.483-4.844,13.418-7.155C53.2,89.3,57.433,85.96,60.417,83.583V107.75Z" transform="translate(1309.333 10)" fill="#fff" opacity="0.15"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121" viewBox="0 0 121 121">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="map-marked-alt-solid" d="M33.75,0A14.765,14.765,0,0,0,18.984,14.766c0,6.593,9.65,18.609,13.348,22.971a1.848,1.848,0,0,0,2.836,0c3.7-4.362,13.348-16.378,13.348-22.971A14.765,14.765,0,0,0,33.75,0Zm0,19.688a4.922,4.922,0,1,1,4.922-4.922A4.921,4.921,0,0,1,33.75,19.688ZM2.358,25.307A3.751,3.751,0,0,0,0,28.788V58.123a1.875,1.875,0,0,0,2.571,1.741L18.75,52.5V25.186a35.489,35.489,0,0,1-2.49-5.44ZM33.75,42.149a5.6,5.6,0,0,1-4.279-1.987c-2.3-2.719-4.754-5.815-6.971-8.991V52.5L45,60V31.172c-2.217,3.175-4.666,6.272-6.971,8.991A5.6,5.6,0,0,1,33.75,42.149ZM64.929,18.886,48.75,26.25V60l16.392-6.557A3.75,3.75,0,0,0,67.5,49.962V20.627a1.875,1.875,0,0,0-2.571-1.741Z" transform="translate(0)" fill="#2680eb"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1549" data-name="Rectangle 1549" width="1646.518" height="913.661" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="0.798" y2="0.862" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eff7fb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-landing-jelajah-sekolah-hover" transform="translate(-434 -487)">
+    <circle id="Ellipse_84" data-name="Ellipse 84" cx="60.5" cy="60.5" r="60.5" transform="translate(434 487)" fill="#eef5ff"/>
+    <g id="Group_4815" data-name="Group 4815" transform="translate(-5.75 -9)">
+      <g id="Mask_Group_1573" data-name="Mask Group 1573" transform="translate(466.5 522.611)" clip-path="url(#clip-path)">
+        <g id="BG_-_Hero" data-name="BG - Hero" transform="translate(-1499.464 -505.731)" clip-path="url(#clip-path-2)">
+          <g id="BG_-_Hero-2" data-name="BG - Hero" transform="translate(0 95.234)">
+            <path id="Path_40846" data-name="Path 40846" d="M0,173.065s347.308-68.607,281.743,140.262S0,527.056,0,527.056Z" transform="translate(0 -120.677)" fill="#eff7fb"/>
+            <g id="Group_4814" data-name="Group 4814" transform="translate(1397.155)">
+              <path id="Path_40847" data-name="Path 40847" d="M1880.063,127.827s-36.564,52.9-171.512,9.363-68.62,175.082,171.512,234.077C1881.054,156.017,1880.063,127.827,1880.063,127.827Z" transform="translate(-1630.699 -115.435)" fill="url(#linear-gradient)"/>
+              <path id="Path_40848" data-name="Path 40848" d="M1878.582,113.211s-42.438,76.871-190.938,26.87,11.623,205.92,195.151,218.7" transform="translate(-1629.218 -113.211)" fill="none" stroke="#2496e4" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <path id="map-marked-alt-solid-2" data-name="map-marked-alt-solid" d="M33.75,0A14.765,14.765,0,0,0,18.984,14.766c0,6.593,9.65,18.609,13.348,22.971a1.848,1.848,0,0,0,2.836,0c3.7-4.362,13.348-16.378,13.348-22.971A14.765,14.765,0,0,0,33.75,0Zm0,19.688a4.922,4.922,0,1,1,4.922-4.922A4.921,4.921,0,0,1,33.75,19.688ZM2.358,25.307A3.751,3.751,0,0,0,0,28.788V58.123a1.875,1.875,0,0,0,2.571,1.741L18.75,52.5V25.186a35.489,35.489,0,0,1-2.49-5.44ZM33.75,42.149a5.6,5.6,0,0,1-4.279-1.987c-2.3-2.719-4.754-5.815-6.971-8.991V52.5L45,60V31.172c-2.217,3.175-4.666,6.272-6.971,8.991A5.6,5.6,0,0,1,33.75,42.149ZM64.929,18.886,48.75,26.25V60l16.392-6.557A3.75,3.75,0,0,0,67.5,49.962V20.627a1.875,1.875,0,0,0-2.571-1.741Z" transform="translate(0)" fill="#2680eb"/>
+        <ellipse id="Ellipse_839" data-name="Ellipse 839" cx="39.666" cy="39.666" rx="39.666" ry="39.666" transform="translate(-40.631 -19.334)" fill="#6bb1fe" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

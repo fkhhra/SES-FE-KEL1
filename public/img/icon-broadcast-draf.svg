@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-broadcast-draf" transform="translate(0.001 -1.666)">
+    <path id="Check" d="M12,0A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(-0.001 1.666)" fill="#ededf4"/>
+    <path id="Path_170" data-name="Path 170" d="M5.638,3.423V0H.6A.6.6,0,0,0,0,.6V12.282a.6.6,0,0,0,.6.6H9.061a.6.6,0,0,0,.6-.6V4.027H6.242A.606.606,0,0,1,5.638,3.423Zm4.027-.355v.154H6.443V0H6.6a.6.6,0,0,1,.428.176L9.488,2.643A.6.6,0,0,1,9.665,3.068Z" transform="translate(7 6.667)" fill="#80849c"/>
+  </g>
+</svg>

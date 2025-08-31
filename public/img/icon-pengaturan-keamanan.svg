@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_37102" data-name="Path 37102" d="M54.42,2.061l-6.8-2.04a.508.508,0,0,0-.292,0l-6.8,2.04a.508.508,0,0,0-.362.486v7.479a4.831,4.831,0,0,0,1.17,2.96,12.1,12.1,0,0,0,2.439,2.259,21.882,21.882,0,0,0,3.49,2.044.508.508,0,0,0,.415,0,21.884,21.884,0,0,0,3.49-2.044,12.1,12.1,0,0,0,2.439-2.259,4.831,4.831,0,0,0,1.17-2.96V2.548A.508.508,0,0,0,54.42,2.061Z" transform="translate(-40.168 0)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-pengaturan-keamanan" transform="translate(0.029 0.363)">
+    <circle id="Ellipse_493" data-name="Ellipse 493" cx="15" cy="15" r="15" transform="translate(-0.029 -0.363)" fill="#d9eeff" opacity="0.4"/>
+    <g id="Group_2826" data-name="Group 2826" transform="translate(7.631 6.644)">
+      <g id="shield" transform="translate(0 0)">
+        <g id="Group_2823" data-name="Group 2823" transform="translate(0 0)">
+          <path id="Path_37102-2" data-name="Path 37102" d="M54.42,2.061l-6.8-2.04a.508.508,0,0,0-.292,0l-6.8,2.04a.508.508,0,0,0-.362.486v7.479a4.831,4.831,0,0,0,1.17,2.96,12.1,12.1,0,0,0,2.439,2.259,21.882,21.882,0,0,0,3.49,2.044.508.508,0,0,0,.415,0,21.884,21.884,0,0,0,3.49-2.044,12.1,12.1,0,0,0,2.439-2.259,4.831,4.831,0,0,0,1.17-2.96V2.548A.508.508,0,0,0,54.42,2.061Z" transform="translate(-40.168 0)" fill="#2680eb"/>
+        </g>
+      </g>
+      <g id="Mask_Group_1442" data-name="Mask Group 1442" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <ellipse id="Ellipse_494" data-name="Ellipse 494" cx="7.496" cy="7.497" rx="7.496" ry="7.497" transform="translate(-7.496 -5.192)" fill="#6bb1fe" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="bg-card-akun-rekening" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.492" height="60" viewBox="0 0 124.492 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_38491" data-name="Path 38491" d="M414.928-.156,529.223-.209a10.427,10.427,0,0,1,10.2,10.641V59.739l-112.394.05-12.1-28.382Z" transform="translate(-414.928 0.209)" fill="#eef5ff" opacity="0.75"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_37017" data-name="Path 37017" d="M419.984-.158,529.122-.209a10.427,10.427,0,0,1,10.2,10.641V59.739L423.7,59.79Z" transform="translate(-419.984 0.209)" fill="#eef5ff" opacity="0.75"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="credit-card-regular" d="M53.1,32H4.838A4.831,4.831,0,0,0,0,36.828v35.4a4.831,4.831,0,0,0,4.838,4.828H53.1a4.831,4.831,0,0,0,4.838-4.828v-35.4A4.831,4.831,0,0,0,53.1,32ZM5.441,36.828H52.492a.605.605,0,0,1,.6.6v4.224H4.838V37.431A.605.605,0,0,1,5.441,36.828Zm47.051,35.4H5.441a.605.605,0,0,1-.6-.6V54.53H53.1v17.1A.605.605,0,0,1,52.492,72.232ZM19.311,62.174V66.2A1.21,1.21,0,0,1,18.1,67.4H10.863A1.21,1.21,0,0,1,9.656,66.2V62.174a1.21,1.21,0,0,1,1.207-1.207H18.1A1.21,1.21,0,0,1,19.311,62.174Zm19.311,0V66.2A1.21,1.21,0,0,1,37.415,67.4H23.737A1.21,1.21,0,0,1,22.53,66.2V62.174a1.21,1.21,0,0,1,1.207-1.207H37.415A1.211,1.211,0,0,1,38.622,62.174Z" transform="translate(37.148 -3)" fill="#a1c8f8"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1557" data-name="Mask Group 1557" transform="translate(0 0.001)" clip-path="url(#clip-path)">
+    <ellipse id="Ellipse_682" data-name="Ellipse 682" cx="72.637" cy="72.639" rx="72.637" ry="72.639" transform="translate(4.152 -55.811)" fill="#6bb1fe" opacity="0.15"/>
+  </g>
+  <g id="Group_1415" data-name="Group 1415" transform="translate(5.156)" clip-path="url(#clip-path-2)">
+    <path id="user-solid" d="M51.536,48.592Z" transform="translate(34.693 10.142)" fill="#8cbcf6" opacity="0.75"/>
+    <g id="Group_5010" data-name="Group 5010" transform="translate(3)">
+      <path id="credit-card-regular-2" data-name="credit-card-regular" d="M53.1,32H4.838A4.831,4.831,0,0,0,0,36.828v35.4a4.831,4.831,0,0,0,4.838,4.828H53.1a4.831,4.831,0,0,0,4.838-4.828v-35.4A4.831,4.831,0,0,0,53.1,32ZM5.441,36.828H52.492a.605.605,0,0,1,.6.6v4.224H4.838V37.431A.605.605,0,0,1,5.441,36.828Zm47.051,35.4H5.441a.605.605,0,0,1-.6-.6V54.53H53.1v17.1A.605.605,0,0,1,52.492,72.232ZM19.311,62.174V66.2A1.21,1.21,0,0,1,18.1,67.4H10.863A1.21,1.21,0,0,1,9.656,66.2V62.174a1.21,1.21,0,0,1,1.207-1.207H18.1A1.21,1.21,0,0,1,19.311,62.174Zm19.311,0V66.2A1.21,1.21,0,0,1,37.415,67.4H23.737A1.21,1.21,0,0,1,22.53,66.2V62.174a1.21,1.21,0,0,1,1.207-1.207H37.415A1.211,1.211,0,0,1,38.622,62.174Z" transform="translate(30.148 -17.06)" fill="#a1c8f8"/>
+      <g id="Mask_Group_1561" data-name="Mask Group 1561" transform="translate(-7 -14.06)" clip-path="url(#clip-path-3)">
+        <circle id="Ellipse_699" data-name="Ellipse 699" cx="32.618" cy="32.618" r="32.618" transform="translate(4.531 -1.316)" fill="#b9d7fc"/>
+      </g>
+    </g>
+  </g>
+</svg>

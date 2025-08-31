@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="icon-siswa" transform="translate(-235 -1707)">
+    <g id="Circle" transform="translate(1)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="36" cy="36" r="36" transform="translate(234 1707)" fill="#fff"/>
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(237 1710)" fill="none" stroke="#2680eb" stroke-width="1">
+        <circle cx="33" cy="33" r="33" stroke="none"/>
+        <circle cx="33" cy="33" r="32.5" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_50" data-name="Path 50" d="M6,44a4,4,0,1,0-4-4A4,4,0,0,0,6,44Zm28,0a4,4,0,1,0-4-4A4,4,0,0,0,34,44Zm2,2H32a3.988,3.988,0,0,0-2.819,1.162A9.142,9.142,0,0,1,33.875,54H38a2,2,0,0,0,2-2V50A4,4,0,0,0,36,46ZM20,46a7,7,0,1,0-7-7A7,7,0,0,0,20,46Zm4.8,2h-.519a9.665,9.665,0,0,1-8.563,0H15.2A7.2,7.2,0,0,0,8,55.2V57a3,3,0,0,0,3,3H29a3,3,0,0,0,3-3V55.2A7.2,7.2,0,0,0,24.8,48Zm-13.981-.838A3.988,3.988,0,0,0,8,46H4a4,4,0,0,0-4,4v2a2,2,0,0,0,2,2H6.119a9.165,9.165,0,0,1,4.7-6.837Z" transform="translate(251.048 1697.533)" fill="none" stroke="#2680eb" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

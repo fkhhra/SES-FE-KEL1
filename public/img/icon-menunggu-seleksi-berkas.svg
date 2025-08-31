@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-menunggu-seleksi-berkas" transform="translate(-792 -534)">
+    <g id="Rectangle_1472" data-name="Rectangle 1472" transform="translate(792 534)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Group_5130" data-name="Group 5130" transform="translate(-0.121 212)">
+      <path id="Subtraction_50" data-name="Subtraction 50" d="M11.046,18H.735A.8.8,0,0,1,0,17.157V.844A.8.8,0,0,1,.735,0H6.872V4.782a.8.8,0,0,0,.737.844h4.172v5.258a3.241,3.241,0,0,0,0,6.315A.788.788,0,0,1,11.046,18ZM2.381,13.371a.514.514,0,1,0,0,1.028H6.9a.514.514,0,1,0,0-1.028Zm0-2.057a.514.514,0,1,0,0,1.028H9.421a.514.514,0,1,0,0-1.028Zm0-2.058a.514.514,0,1,0,0,1.029H9.421a.514.514,0,0,0,0-1.029Zm0-2.056a.514.514,0,1,0,0,1.029H9.421a.514.514,0,0,0,0-1.029Zm9.4-2.7H7.854V0h.187a.692.692,0,0,1,.522.246L11.225,3.3l.343.393a.917.917,0,0,1,.214.595V4.5Z" transform="translate(797.121 325)" fill="#f9ac50"/>
+      <g id="Check" transform="translate(807.115 336.521)">
+        <path id="search-solid" d="M6.037,5.292,4.845,4.1a.287.287,0,0,0-.2-.084H4.447a2.485,2.485,0,1,0-.43.43v.195a.287.287,0,0,0,.084.2L5.292,6.037a.286.286,0,0,0,.405,0L6.036,5.7A.288.288,0,0,0,6.037,5.292ZM2.487,4.017a1.53,1.53,0,1,1,1.53-1.53A1.529,1.529,0,0,1,2.487,4.017Z" transform="translate(0 0)" fill="#f9ac50"/>
+      </g>
+    </g>
+  </g>
+</svg>

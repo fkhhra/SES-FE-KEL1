@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icon-help" transform="translate(-292 -583)">
+    <path id="Path_40164" data-name="Path 40164" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" transform="translate(292 583)" fill="#2680eb"/>
+    <g id="Group_4693" data-name="Group 4693" transform="translate(5651.92 17269.123)">
+      <rect id="Rectangle_1488" data-name="Rectangle 1488" width="9.52" height="16.219" rx="4.76" transform="translate(-5320.837 -16662.229)" fill="#fff"/>
+      <path id="Path_40185" data-name="Path 40185" d="M-5099.577-16927.584c0-17.184,27.684-17.875,27.684,0" transform="translate(-244.184 268.881)" fill="none" stroke="#fff" stroke-width="4"/>
+      <rect id="Rectangle_1489" data-name="Rectangle 1489" width="5.76" height="9.33" rx="2.88" transform="translate(-5322.672 -16643.414) rotate(90)" fill="#fff"/>
+      <path id="Path_40186" data-name="Path 40186" d="M-5081.284-16940.086c11.248,0,10.952,5.84,10.952,7.676" transform="translate(-22255.082 -11570.203) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect id="Rectangle_1490" data-name="Rectangle 1490" width="9.52" height="16.219" rx="4.76" transform="translate(-5348.521 -16662.229)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="user-solid" d="M7.884,9.01A4.505,4.505,0,1,0,3.379,4.505,4.5,4.5,0,0,0,7.884,9.01Zm3.154,1.126H10.45a6.127,6.127,0,0,1-5.132,0H4.73A4.732,4.732,0,0,0,0,14.867v1.464a1.69,1.69,0,0,0,1.689,1.689H14.079a1.69,1.69,0,0,0,1.689-1.689V14.867A4.732,4.732,0,0,0,11.038,10.137Z" transform="translate(129 145.25)" fill="#2680eb"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="user-solid-2" data-name="user-solid" d="M7.884,9.01A4.505,4.505,0,1,0,3.379,4.505,4.5,4.5,0,0,0,7.884,9.01Zm3.154,1.126H10.45a6.127,6.127,0,0,1-5.132,0H4.73A4.732,4.732,0,0,0,0,14.867v1.464a1.69,1.69,0,0,0,1.689,1.689H14.079a1.69,1.69,0,0,0,1.689-1.689V14.867A4.732,4.732,0,0,0,11.038,10.137Z" transform="translate(129 144.25)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="user-solid-3" data-name="user-solid" d="M7.884,9.01A4.505,4.505,0,1,0,3.379,4.505,4.5,4.5,0,0,0,7.884,9.01Zm3.154,1.126H10.45a6.127,6.127,0,0,1-5.132,0H4.73A4.732,4.732,0,0,0,0,14.867v1.464a1.69,1.69,0,0,0,1.689,1.689H14.079a1.69,1.69,0,0,0,1.689-1.689V14.867A4.732,4.732,0,0,0,11.038,10.137Z" transform="translate(111 143.25)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-pendaftar-ppdb" transform="translate(-90 -139)">
+    <circle id="Ellipse_673" data-name="Ellipse 673" cx="15" cy="15" r="15" transform="translate(90 139)" fill="#d9eeff" opacity="0.4"/>
+    <g id="Mask_Group_1427" data-name="Mask Group 1427" transform="translate(-31.884 0.74)" clip-path="url(#clip-path-2)">
+      <path id="user-solid-4" data-name="user-solid" d="M7.884,9.01A4.505,4.505,0,1,0,3.379,4.505,4.5,4.5,0,0,0,7.884,9.01Zm3.154,1.126H10.45a6.127,6.127,0,0,1-5.132,0H4.73A4.732,4.732,0,0,0,0,14.867v1.464a1.69,1.69,0,0,0,1.689,1.689H14.079a1.69,1.69,0,0,0,1.689-1.689V14.867A4.732,4.732,0,0,0,11.038,10.137Z" transform="translate(129 144.25)" fill="#2680eb"/>
+    </g>
+    <g id="Mask_Group_1428" data-name="Mask Group 1428" transform="translate(-13.884 1.74)" clip-path="url(#clip-path-3)">
+      <path id="Path_37061" data-name="Path 37061" d="M11.354,0C17.624,0,23.7,5.474,23.7,11.744c1.417,2.75-1.26,2.407-1.858,3.959A11.355,11.355,0,1,1,11.354,0Z" transform="translate(100.38 135.423)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

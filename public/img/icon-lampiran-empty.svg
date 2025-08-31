@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_5362" data-name="Group 5362" transform="translate(5.218 0.383)">
+    <path id="Path_485" data-name="Path 485" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" transform="translate(-5.218 -0.383)" fill="#e1e1e7"/>
+    <g id="pdf" transform="translate(3.133 7.862)">
+      <path id="Path_468" data-name="Path 468" d="M97.766,0A1.776,1.776,0,0,0,96,1.775V26.621A1.776,1.776,0,0,0,97.766,28.4h17.664a1.776,1.776,0,0,0,1.766-1.775V7.1L110.131,0Z" transform="translate(-92.351)" fill="#fff"/>
+      <path id="Path_469" data-name="Path 469" d="M353.825,7.3H359.3L352,0V5.474A1.83,1.83,0,0,0,353.825,7.3Z" transform="translate(-334.452 -0.245)" fill="#b0b7bd"/>
+      <path id="Path_470" data-name="Path 470" d="M389.474,133.474,384,128h5.474Z" transform="translate(-364.627 -120.947)" fill="#cad1d8"/>
+    </g>
+  </g>
+</svg>

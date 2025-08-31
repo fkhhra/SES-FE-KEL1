@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-menunggu-hasil-pengumuman" transform="translate(-792 -1016)">
+    <g id="Rectangle_1477" data-name="Rectangle 1477" transform="translate(792 1016)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Subtraction_70" data-name="Subtraction 70" d="M11.047,18H.736A.8.8,0,0,1,0,17.156V.843A.8.8,0,0,1,.736,0H6.873V4.781a.8.8,0,0,0,.737.844h4.172V17.156A.8.8,0,0,1,11.047,18ZM2.381,13.37a.514.514,0,1,0,0,1.029H6.9a.514.514,0,1,0,0-1.029Zm0-2.057a.514.514,0,1,0,0,1.028H9.421a.514.514,0,1,0,0-1.028Zm0-2.057a.514.514,0,1,0,0,1.028H9.421a.514.514,0,1,0,0-1.028Zm0-2.056a.514.514,0,1,0,0,1.029H9.421a.514.514,0,1,0,0-1.029Zm9.4-2.7H7.856V0h.187a.687.687,0,0,1,.521.247l2.66,3.05.344.394a.916.916,0,0,1,.214.595V4.5Z" transform="translate(798 1019)" fill="#f9ac50"/>
+  </g>
+</svg>

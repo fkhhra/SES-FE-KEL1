@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="phone-solid" d="M28.9,1.431,22.806.025a1.415,1.415,0,0,0-1.611.814L18.382,7.4a1.4,1.4,0,0,0,.4,1.641l3.551,2.906A21.715,21.715,0,0,1,11.955,22.331L9.049,18.78a1.4,1.4,0,0,0-1.641-.4L.846,21.189a1.423,1.423,0,0,0-.82,1.617L1.432,28.9A1.406,1.406,0,0,0,2.8,29.989,27.184,27.184,0,0,0,29.99,2.8,1.4,1.4,0,0,0,28.9,1.431Z" transform="translate(184.01 779.011)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-telepon" transform="translate(-169 -764)">
+    <circle id="Ellipse_389" data-name="Ellipse 389" cx="30" cy="30" r="30" transform="translate(169 764)" fill="#d9eeff" opacity="0.4"/>
+    <path id="phone-solid-2" data-name="phone-solid" d="M28.9,1.431,22.806.025a1.415,1.415,0,0,0-1.611.814L18.382,7.4a1.4,1.4,0,0,0,.4,1.641l3.551,2.906A21.715,21.715,0,0,1,11.955,22.331L9.049,18.78a1.4,1.4,0,0,0-1.641-.4L.846,21.189a1.423,1.423,0,0,0-.82,1.617L1.432,28.9A1.406,1.406,0,0,0,2.8,29.989,27.184,27.184,0,0,0,29.99,2.8,1.4,1.4,0,0,0,28.9,1.431Z" transform="translate(184.01 779.011)" fill="#2680eb"/>
+    <g id="Mask_Group_1465" data-name="Mask Group 1465" clip-path="url(#clip-path)">
+      <circle id="Ellipse_517" data-name="Ellipse 517" cx="21.302" cy="21.302" r="21.302" transform="translate(176.698 755)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

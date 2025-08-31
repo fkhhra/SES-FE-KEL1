@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="620" height="59" viewBox="0 0 620 59">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_37008" data-name="Path 37008" d="M-73,.009,527-.209a10.224,10.224,0,0,1,10,10.435V58.573l-620,.218V10.444A10.224,10.224,0,0,1-73,.009Z" transform="translate(691 969.977)" fill="#eef5ff" opacity="0.75"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_37023" data-name="Path 37023" d="M103,.007,527-.209a10.181,10.181,0,0,1,10,10.353v47.97L93,58.331V10.361A10.181,10.181,0,0,1,103,.007Z" transform="translate(46 414.209)" fill="#eef5ff" opacity="0.75"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="chart-line-solid" d="M55.883,36.054H7.211V1.8A1.8,1.8,0,0,0,5.408,0H1.8A1.8,1.8,0,0,0,0,1.8V39.659a3.606,3.606,0,0,0,3.605,3.605H55.883a1.8,1.8,0,0,0,1.8-1.8V37.856A1.8,1.8,0,0,0,55.883,36.054ZM52.278,3.605h-13.3a2.7,2.7,0,0,0-1.912,4.616l3.65,3.65-8.266,8.268-8.266-8.266a3.6,3.6,0,0,0-5.1,0l-7.739,7.739a1.8,1.8,0,0,0,0,2.55l2.549,2.549a1.8,1.8,0,0,0,2.55,0l5.189-5.191L29.9,27.786a3.6,3.6,0,0,0,5.1,0L45.813,16.97l3.65,3.65a2.7,2.7,0,0,0,4.616-1.912V5.408A1.8,1.8,0,0,0,52.278,3.605Z" transform="translate(382.424 483.538) rotate(-3)" fill="#9dc5f7"/>
+    </clipPath>
+  </defs>
+  <g id="bg-card-perencanaan-dan-realisasi" transform="translate(37 -414)">
+    <g id="Mask_Group_1406" data-name="Mask Group 1406" transform="translate(-645 -555.768)" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_445" data-name="Ellipse 445" cx="71.225" cy="71.226" rx="71.225" ry="71.226" transform="translate(1103 915.042)" fill="#6bb1fe" opacity="0.15"/>
+    </g>
+    <g id="Mask_Group_1560" data-name="Mask Group 1560" clip-path="url(#clip-path-2)">
+      <g id="Group_2859" data-name="Group 2859" transform="matrix(0.998, -0.07, 0.07, 0.998, 76.514, -23.998)">
+        <path id="chart-line-solid-2" data-name="chart-line-solid" d="M55.883,36.054H7.211V1.8A1.8,1.8,0,0,0,5.408,0H1.8A1.8,1.8,0,0,0,0,1.8V39.659a3.606,3.606,0,0,0,3.605,3.605H55.883a1.8,1.8,0,0,0,1.8-1.8V37.856A1.8,1.8,0,0,0,55.883,36.054ZM52.278,3.605h-13.3a2.7,2.7,0,0,0-1.912,4.616l3.65,3.65-8.266,8.268-8.266-8.266a3.6,3.6,0,0,0-5.1,0l-7.739,7.739a1.8,1.8,0,0,0,0,2.55l2.549,2.549a1.8,1.8,0,0,0,2.55,0l5.189-5.191L29.9,27.786a3.6,3.6,0,0,0,5.1,0L45.813,16.97l3.65,3.65a2.7,2.7,0,0,0,4.616-1.912V5.408A1.8,1.8,0,0,0,52.278,3.605Z" transform="translate(382.424 483.538) rotate(-3)" fill="#9dc5f7"/>
+        <g id="Mask_Group_1596" data-name="Mask Group 1596" clip-path="url(#clip-path-3)">
+          <ellipse id="Ellipse_764" data-name="Ellipse 764" cx="33.433" cy="32.206" rx="33.433" ry="32.206" transform="translate(345.237 456.12)" fill="#b9d7fc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

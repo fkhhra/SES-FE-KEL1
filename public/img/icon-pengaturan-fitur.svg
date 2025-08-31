@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_38595" data-name="Path 38595" d="M10,3.5a1.5,1.5,0,0,1,3,0V4a1,1,0,0,0,1,1h3a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1h-.5a1.5,1.5,0,0,0,0,3H17a1,1,0,0,1,1,1v3a1,1,0,0,1-1,1H14a1,1,0,0,1-1-1v-.5a1.5,1.5,0,0,0-3,0V17a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V14a1,1,0,0,0-1-1H3.5a1.5,1.5,0,0,1,0-3H4A1,1,0,0,0,5,9V6A1,1,0,0,1,6,5H9a1,1,0,0,0,1-1Z" transform="translate(94 144)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-pengaturan-fitur" transform="translate(-90 -139)">
+    <circle id="Ellipse_673" data-name="Ellipse 673" cx="15" cy="15" r="15" transform="translate(90 139)" fill="#d9eeff" opacity="0.4"/>
+    <path id="Path_38594" data-name="Path 38594" d="M10,3.5a1.5,1.5,0,0,1,3,0V4a1,1,0,0,0,1,1h3a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1h-.5a1.5,1.5,0,0,0,0,3H17a1,1,0,0,1,1,1v3a1,1,0,0,1-1,1H14a1,1,0,0,1-1-1v-.5a1.5,1.5,0,0,0-3,0V17a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V14a1,1,0,0,0-1-1H3.5a1.5,1.5,0,0,1,0-3H4A1,1,0,0,0,5,9V6A1,1,0,0,1,6,5H9a1,1,0,0,0,1-1Z" transform="translate(94 144)" fill="#2680eb"/>
+    <g id="Mask_Group_1594" data-name="Mask Group 1594" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_755" data-name="Ellipse 755" cx="16.848" cy="16.848" rx="16.848" ry="16.848" transform="translate(78.383 125.041)" fill="#87beff" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

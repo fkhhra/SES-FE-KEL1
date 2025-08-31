@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_40" data-name="Union 40" d="M13.238,37.6V33.768a2.367,2.367,0,0,1,2.369-2.37H27.795V8.8l.994-1.1L33.24,2.79c0,.008.016.021.025.034A7.163,7.163,0,0,1,34.719,6.6V31.4h-.044A7.181,7.181,0,0,1,27.55,37.6ZM0,37.6V27.331H4.4a6.949,6.949,0,0,0,6.949-6.951V11.464h12.03l-4.431,4.855c-.016-.008-.032-.017-.049-.024a2.748,2.748,0,1,0,1.131.959l4.619-5.04v13.73H16.582a7.441,7.441,0,0,0-7.44,7.435V37.6Zm34.719-31c.016.191.024.391.024.587V30.412c0,.2-.008.4-.024.591ZM0,23.991V0H27.55a7.145,7.145,0,0,1,4.691,1.743L27.59,6.813H6.745V20.639a3.348,3.348,0,0,1-3.352,3.351Z" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-admin-dapodik" transform="translate(-312.899 -672.395)">
+    <circle id="Ellipse_83" data-name="Ellipse 83" cx="40" cy="40" r="40" transform="translate(312.899 672.395)" fill="#d9eeff" opacity="0.7"/>
+    <g id="Group_2860" data-name="Group 2860" transform="translate(5.577 6.034)">
+      <g id="Group_1778" data-name="Group 1778" transform="translate(329.95 687.559)">
+        <path id="Path_2526" data-name="Path 2526" d="M670.522,1565.75v13.731h-8.071a7.437,7.437,0,0,0-7.437,7.437v4.221H645.87v-10.274h4.4a6.95,6.95,0,0,0,6.95-6.95V1565h12.028l-4.427,4.854-.051-.024a2.76,2.76,0,1,0,1.13.96Z" transform="translate(-645.87 -1553.537)" fill="#2680eb"/>
+        <path id="Path_2527" data-name="Path 2527" d="M1272.963,1918.3v.4h-.043C1272.938,1918.563,1272.953,1918.431,1272.963,1918.3Z" transform="translate(-1238.244 -1887.298)" fill="#2680eb"/>
+        <path id="Path_2528" data-name="Path 2528" d="M678.113,1359.459l-4.651,5.073H652.617v13.826a3.352,3.352,0,0,1-3.352,3.352h-3.4v-23.99h27.553A7.164,7.164,0,0,1,678.113,1359.459Z" transform="translate(-645.87 -1357.72)" fill="#2680eb"/>
+        <path id="Path_2529" data-name="Path 2529" d="M906.741,1411.963v24.4c-.01.133-.025.265-.043.4a7.181,7.181,0,0,1-7.123,6.206H885.26v-3.836a2.37,2.37,0,0,1,2.37-2.37h12.187v-22.6l.993-1.1,4.451-4.911.024.031A7.15,7.15,0,0,1,906.741,1411.963Z" transform="translate(-872.022 -1405.362)" fill="#2680eb"/>
+        <path id="Path_2530" data-name="Path 2530" d="M1273.724,1477.676V1500.9c0,.2-.008.394-.024.588v-24.4C1273.716,1477.281,1273.724,1477.478,1273.724,1477.676Z" transform="translate(-1238.981 -1470.487)" fill="#2680eb"/>
+        <path id="Path_2531" data-name="Path 2531" d="M846.742,1747.064" transform="translate(-835.634 -1725.533)" fill="#2680eb"/>
+      </g>
+      <g id="Mask_Group_1319" data-name="Mask Group 1319" transform="translate(329.952 687.559)" clip-path="url(#clip-path)">
+        <circle id="Ellipse_304" data-name="Ellipse 304" cx="21.974" cy="21.974" r="21.974" transform="translate(-18.911 -14.415)" fill="#6bb1fe" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-menunggu-konfirmasi-pembayaran" transform="translate(-792 -632)">
+    <g id="Rectangle_1473" data-name="Rectangle 1473" transform="translate(792 632)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Group_5010" data-name="Group 5010" transform="translate(764.852 622.061)">
+      <path id="credit-card-regular" d="M16.5,32H1.5A1.5,1.5,0,0,0,0,33.5v11A1.5,1.5,0,0,0,1.5,46H16.5A1.5,1.5,0,0,0,18,44.5v-11A1.5,1.5,0,0,0,16.5,32ZM1.691,33.5H16.309a.188.188,0,0,1,.188.188V35H1.5V33.688A.188.188,0,0,1,1.691,33.5Zm14.619,11H1.691a.188.188,0,0,1-.187-.187V39H16.5v5.313A.188.188,0,0,1,16.309,44.5ZM6,41.375v1.25A.376.376,0,0,1,5.625,43H3.375A.376.376,0,0,1,3,42.625v-1.25A.376.376,0,0,1,3.375,41h2.25A.376.376,0,0,1,6,41.375Zm6,0v1.25a.376.376,0,0,1-.375.375H7.375A.376.376,0,0,1,7,42.625v-1.25A.376.376,0,0,1,7.375,41h4.25A.376.376,0,0,1,12,41.375Z" transform="translate(30.148 -17.06)" fill="#f9ac50"/>
+    </g>
+  </g>
+</svg>

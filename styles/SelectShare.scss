@@ -1,0 +1,64 @@
+.select-wrapper {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .option-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px;
+  }
+  
+  .option-image {
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+    border-radius: 4px;
+  }
+  
+  .option-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .option-label {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+  
+  .option-value {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .custom-control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .color-indicator {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+  }
+  
+  @media (max-width: 480px) {
+    .option-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .option-image {
+      height: 30px;
+      width: 30px;
+    }
+  
+    .select-wrapper {
+      max-width: 100%;
+    }
+  }
+  

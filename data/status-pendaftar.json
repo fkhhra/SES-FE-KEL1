@@ -1,0 +1,47 @@
+{
+  "menungguSeleksiBerkas": {
+    "text": "Menunggu Seleksi Berkas",
+    "color": "color-warning",
+    "icon": "menunggu-seleksi-berkas"
+  },
+  "menungguKonfirmasiPembayaran": {
+    "text": "Menunggu Konfirmasi Pembayaran",
+    "color": "color-warning",
+    "icon": "menunggu-konfirmasi-pembayaran"
+  },
+  "menungguSeleksiUjian": {
+    "text": "Menunggu Seleksi Ujian",
+    "color": "color-warning",
+    "icon": "menunggu-seleksi-ujian"
+  },
+  "menungguHasilPengumuman": {
+    "text": "Menunggu Hasil Pengumuman",
+    "color": "color-warning",
+    "icon": "menunggu-hasil-pengumuman"
+  },
+  "berkasTerkonfirmasi": {
+    "text": "Berkas Terkonfirmasi",
+    "color": "color-success",
+    "icon": "berkas-terkonfirmasi"
+  },
+  "pembayaranTerkonfirmasi": {
+    "text": "Pembayaran Terkonfirmasi",
+    "color": "color-success",
+    "icon": "pembayaran-terkonfirmasi"
+  },
+  "lulusSeleksi": {
+    "text": "Lulus Seleksi",
+    "color": "color-success",
+    "icon": "lulus-seleksi"
+  },
+  "tidakLulusSeleksi": {
+    "text": "Tidak Lulus Seleksi",
+    "color": "color-danger",
+    "icon": "tidak-lulus-seleksi"
+  },
+  "cadangan": {
+    "text": "Cadangan",
+    "color": "color-secondary",
+    "icon": "menunggu-hasil-pengumuman"
+  }
+}

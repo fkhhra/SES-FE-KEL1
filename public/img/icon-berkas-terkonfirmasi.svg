@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-berkas-terkonfirmasi" transform="translate(-792 -727)">
+    <g id="Rectangle_1474" data-name="Rectangle 1474" transform="translate(792 727)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Group_5131" data-name="Group 5131" transform="translate(0.879 405)">
+      <path id="Subtraction_50" data-name="Subtraction 50" d="M11.046,18H.735A.8.8,0,0,1,0,17.156V.844A.8.8,0,0,1,.735,0H6.873V4.781a.8.8,0,0,0,.737.844h4.172V17.156A.8.8,0,0,1,11.046,18ZM2.381,13.371a.514.514,0,1,0,0,1.028H6.9a.514.514,0,0,0,0-1.028Zm0-2.057a.514.514,0,1,0,0,1.028H9.421a.514.514,0,1,0,0-1.028Zm0-2.058a.514.514,0,1,0,0,1.029H9.421a.514.514,0,0,0,0-1.029Zm0-2.056a.514.514,0,1,0,0,1.029H9.421a.514.514,0,0,0,0-1.029Zm9.4-2.7H7.854V0h.187a.692.692,0,0,1,.522.246L11.225,3.3l.343.393a.916.916,0,0,1,.214.595V4.5Z" transform="translate(797.121 325)" fill="#51d868"/>
+    </g>
+  </g>
+</svg>
